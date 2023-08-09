@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remo2705" alt="remo2705" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mohdomers" target="blank"><img src="https://img.shields.io/twitter/follow/mohdomers?logo=twitter&style=for-the-badge" alt="mohdomers" /></a> </p>
+
 - 🔭 I’m currently working on **pojects based on deep learning**
 
 - 🌱 I’m currently learning **nodejs, MONGO DB**
@@ -18,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/remo2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/remo2705" height="30" width="40" /></a>
+<a href="https://twitter.com/mohdomers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdomers" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohd-omer-siddiqui-054032219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-omer-siddiqui-054032219" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rem0_2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rem0_2705" height="30" width="40" /></a>
 <a href="https://instagram.com/mohdomersiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdomersiddi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rem0_2705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rem0_2705" height="30" width="40" /></a>
