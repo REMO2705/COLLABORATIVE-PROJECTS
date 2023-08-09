@@ -35,6 +35,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/KO_fi REMO"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KO_fi REMO" /></a><a href="https://ko-fi.com/KO_fi REMO"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="KO_fi REMO" /></a></p><br><br>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remo2705&show_icons=true&locale=en&layout=compact" alt="remo2705" /></p>
 
