@@ -7,6 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="remo2705" /></a> </p>https://
 
 <p align="left"> <a href="https://twitter.com/mohdomers" target="blank"><img src="https://img.shields.io/twitter/follow/mohdomers?logo=twitter&style=for-the-badge" alt="mohdomers" /></a> </p>
+<script type="module" src="https://unpkg.com/@rocktimsaikia/github-card@latest?module"></script>
 
 - 🔭 I’m currently working on **pojects based on deep learning**
 
